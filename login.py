@@ -8,4 +8,6 @@ num4 = 40
 
 num5 = 50
 
+str3 = 'beauty'
+
 
