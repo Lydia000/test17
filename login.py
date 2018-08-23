@@ -10,4 +10,4 @@ num5 = 50
 
 str3 = 'beauty'
 
-
+num6 = 60
